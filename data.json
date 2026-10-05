@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "description": "Grocery shopping",
+    "amount": 84.52,
+    "category": "Food",
+    "date": "2026-09-01"
+  },
+  {
+    "id": 2,
+    "description": "Gas",
+    "amount": 52.18,
+    "category": "Transportation",
+    "date": "2026-09-02"
+  },
+  {
+    "id": 3,
+    "description": "Netflix subscription",
+    "amount": 17.99,
+    "category": "Entertainment",
+    "date": "2026-09-03"
+  },
+  {
+    "id": 4,
+    "description": "Coffee",
+    "amount": 5.75,
+    "category": "Food",
+    "date": "2026-09-04"
+  },
+  {
+    "id": 5,
+    "description": "Electric bill",
+    "amount": 126.43,
+    "category": "Utilities",
+    "date": "2026-09-05"
+  },
+  {
+    "id": 6,
+    "description": "Restaurant dinner",
+    "amount": 48.27,
+    "category": "Food",
+    "date": "2026-09-07"
+  },
+  {
+    "id": 7,
+    "description": "New keyboard",
+    "amount": 89.99,
+    "category": "Shopping",
+    "date": "2026-09-08"
+  },
+  {
+    "id": 8,
+    "description": "Gas",
+    "amount": 47.63,
+    "category": "Transportation",
+    "date": "2026-09-10"
+  },
+  {
+    "id": 9,
+    "description": "Pharmacy",
+    "amount": 23.41,
+    "category": "Health",
+    "date": "2026-09-11"
+  },
+  {
+    "id": 10,
+    "description": "Internet bill",
+    "amount": 64.99,
+    "category": "Utilities",
+    "date": "2026-09-12"
+  },
+  {
+    "id": 11,
+    "description": "Movie tickets",
+    "amount": 31.50,
+    "category": "Entertainment",
+    "date": "2026-09-13"
+  },
+  {
+    "id": 12,
+    "description": "Grocery shopping",
+    "amount": 112.76,
+    "category": "Food",
+    "date": "2026-09-15"
+  },
+  {
+    "id": 13,
+    "description": "Car wash",
+    "amount": 18.00,
+    "category": "Transportation",
+    "date": "2026-09-16"
+  },
+  {
+    "id": 14,
+    "description": "Lunch",
+    "amount": 14.82,
+    "category": "Food",
+    "date": "2026-09-18"
+  },
+  {
+    "id": 15,
+    "description": "Amazon purchase",
+    "amount": 36.47,
+    "category": "Shopping",
+    "date": "2026-09-19"
+  },
+  {
+    "id": 16,
+    "description": "Water bill",
+    "amount": 42.16,
+    "category": "Utilities",
+    "date": "2026-09-20"
+  },
+  {
+    "id": 17,
+    "description": "Gas",
+    "amount": 55.29,
+    "category": "Transportation",
+    "date": "2026-09-22"
+  },
+  {
+    "id": 18,
+    "description": "Takeout",
+    "amount": 27.63,
+    "category": "Food",
+    "date": "2026-09-23"
+  },
+  {
+    "id": 19,
+    "description": "Concert ticket",
+    "amount": 74.00,
+    "category": "Entertainment",
+    "date": "2026-09-25"
+  },
+  {
+    "id": 20,
+    "description": "Grocery shopping",
+    "amount": 96.34,
+    "category": "Food",
+    "date": "2026-09-26"
+  },
+  {
+    "id": 21,
+    "description": "New shirt",
+    "amount": 32.99,
+    "category": "Shopping",
+    "date": "2026-09-27"
+  },
+  {
+    "id": 22,
+    "description": "Car maintenance",
+    "amount": 215.80,
+    "category": "Transportation",
+    "date": "2026-09-28"
+  },
+  {
+    "id": 23,
+    "description": "Coffee",
+    "amount": 6.25,
+    "category": "Food",
+    "date": "2026-09-29"
+  },
+  {
+    "id": 24,
+    "description": "Doctor copay",
+    "amount": 30.00,
+    "category": "Health",
+    "date": "2026-09-30"
+  },
+  {
+    "id": 25,
+    "description": "Groceries",
+    "amount": 73.58,
+    "category": "Food",
+    "date": "2026-10-01"
+  },
+  {
+    "id": 26,
+    "description": "Gas",
+    "amount": 49.72,
+    "category": "Transportation",
+    "date": "2026-10-02"
+  },
+  {
+    "id": 27,
+    "description": "Streaming subscription",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "date": "2026-10-02"
+  },
+  {
+    "id": 28,
+    "description": "Household supplies",
+    "amount": 41.23,
+    "category": "Shopping",
+    "date": "2026-10-03"
+  },
+  {
+    "id": 29,
+    "description": "Restaurant dinner",
+    "amount": 63.45,
+    "category": "Food",
+    "date": "2026-10-03"
+  },
+  {
+    "id": 30,
+    "description": "Gym membership",
+    "amount": 29.99,
+    "category": "Health",
+    "date": "2026-10-04"
+  }
+]
